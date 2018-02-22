@@ -1,0 +1,3 @@
+[console_scripts]
+systeminfo_cli = systeminfo.main:entry_point
+
